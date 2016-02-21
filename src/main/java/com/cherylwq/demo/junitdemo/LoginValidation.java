@@ -11,7 +11,7 @@ public class LoginValidation {
 	}
 
 	public static Boolean userValidation(String username, String password) {
-		if("wuqian".equals(username) && "19900731wq".equals(password)){
+		if("cherylwu".equals(username) && "0731wq".equals(password)){
 			return true;
 		}else{
 			return false;
